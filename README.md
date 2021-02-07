@@ -1,16 +1,16 @@
 # Hello_Word
 
-## Practice Repository
+- ## Practice Repository
 
 
-##### **Project Title**
+- ##### **Project Title**
 
 
-##### *Description*
+- ##### *Description*
 
 
-##### **How to _run_ program**
+- ##### **How to _run_ program**
 
 
-##### **Files Used**
+- ##### **Files Used**
 
